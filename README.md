@@ -1,1 +1,1 @@
-# landing-page
+Landing page project. Using HTML and CSS basics to create a modern looking landing page. 
