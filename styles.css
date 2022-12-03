@@ -88,14 +88,16 @@ a {
     border-style: solid;
 }
 
-.placeholder {
+.image-container,
+.header-image {
+    width: 600px;
+    height: 250px;
+}
+
+.image-container {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 600px;
-    height: 250px;
-    background-color: gray;
-    font-family: "roboto";
 }
 
 .content{
